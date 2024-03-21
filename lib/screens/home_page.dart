@@ -140,7 +140,7 @@ _Body() {
               child: Text("ADD"),
               style: ElevatedButton.styleFrom(
                   minimumSize: Size(double.infinity, 50),
-                  primary: Colors.red,
+                  backgroundColor: Colors.red,
                   shape: RoundedRectangleBorder(
                     borderRadius: BorderRadius.circular(10),
                   )),
